@@ -36,7 +36,7 @@ File Name
 - Chrome Browser
 - ChromeDriver (place path correctly in 'wikipedia_automation.py' and 'youtube_automation.py')
 
-
+NOTE:- Use your own api id for weather and news just replace it after apiid the no. in which I have done xxxx
 How to Run
 
 1. Install the required Python libraries.
